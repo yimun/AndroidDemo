@@ -1,1 +1,1 @@
-include ':statusbar', ':binder'
+include ':statusbar', ':binder', ':ratingbar'

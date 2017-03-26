@@ -1,4 +1,4 @@
-package me.yimu.binder_test;
+package me.yimu.demo.ratingbar;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("me.yimu.binder_test", appContext.getPackageName());
+        assertEquals("me.yimu.demo.ratingbar", appContext.getPackageName());
     }
 }

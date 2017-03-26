@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CompatRatingBar" >
+        <attr name="crbBackgroundOn" format="reference"/>
+        <attr name="crbBackgroundOff" format="reference"/>
+        <attr name="crbRating" format="integer"/>
+        <attr name="crbNumStars" format="integer"/>
+    </declare-styleable>
+</resources>

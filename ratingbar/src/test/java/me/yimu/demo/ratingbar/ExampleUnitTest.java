@@ -1,4 +1,4 @@
-package me.yimu.binder_test;
+package me.yimu.demo.ratingbar;
 
 import org.junit.Test;
 
