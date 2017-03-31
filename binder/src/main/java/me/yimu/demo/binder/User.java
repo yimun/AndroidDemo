@@ -16,6 +16,12 @@ public class User implements Serializable, Parcelable {
     public String name;
     public int age;
 
+    public User(String id, String name, int age) {
+        this.id = id;
+        this.name = name;
+        this.age = age;
+    }
+
     /**
      * 从序列化中的对象中创建原始对象
      * @param in
