@@ -1,1 +1,1 @@
-include ':statusbar', ':binder', ':ratingbar', ':launch', ':binderpool', ':concurrent'
+include ':statusbar', ':binder', ':ratingbar', ':launch', ':binderpool', ':concurrent', ':touch'
